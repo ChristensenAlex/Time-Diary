@@ -1,0 +1,6 @@
+# Time-Diary
+This time diary is help someone track data about himself/herself. The features that are currently available is tracking communication, and a time diary.
+
+Communication: There is conflicting information on the best approach to helping others. Some people recommend to guide someone to the correct answer by asking questions and giving them time to think. In this school of communication, being direct or controlling are foundational issues. I call this apporach non-help, because rather than helping the person you let the person help himself/herself. I generally provide non-help, but recently a fellow student said I was not unhelpful to talk to and I should be explain things directly, I call this method the direct help. I am honestly not sure what method is better so I wrote this program randomly assigns the user to either non-help or direct help then asks for a letter grade. The hope is to empirically show if one method is clearly better (or perhaps both are useful).
+
+Time Diary: A time diary keeps track of the length of tasks, but this time diary does more. It was inspired by the anti-procrastinaltion methods developed by Dr. Burns. It asks for you to think through the task before starting, as well as summarize your work when you finish.
