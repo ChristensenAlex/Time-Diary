@@ -82,6 +82,7 @@ istream& operator>>(istream& is, Grade& g) {
 }
 
 void communication() {
+	srand(time(0));
 	int random = rand() % 2;
 	Technique UsedTechnique = Technique::NUL;
 	if (random == 0) {
